@@ -77,30 +77,17 @@ Core idea: **leadership is not about being in charge — it's about taking care 
 ### Staying unbothered and focused — the five pillars
 *(from ["How to Stay Unbothered and Focused" — Simon Sinek speech compilation](https://www.youtube.com/watch?v=Y72f_ul5Bu4))*
 
-**1. Clarity of purpose — the "why"** [[02:48](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=168)]
-- Staying unbothered isn't about ignoring the world; it's about having a purpose so strong that distractions naturally lose their grip.
-- Like a captain in rough waters: with a clear destination you stay on course; without one, every wave becomes an excuse to turn back [[00:51](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=51)].
-- When you wake up knowing exactly what you're working toward, setbacks become lessons rather than roadblocks [[01:24](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=84)].
+**1. Clarity of purpose — the "why."** Staying unbothered isn't about ignoring the world; it's about having a purpose so strong that distractions naturally lose their grip. Like a captain in rough waters: with a clear destination you stay on course — without one, every wave becomes an excuse to turn back. When you wake up knowing exactly what you're working toward, setbacks become lessons instead of roadblocks.
 
-**2. Mastering detachment** [[03:23](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=203)]
-- Detachment is not indifference — it's the wisdom to choose where to invest your emotional energy. Most people live in "reaction mode," letting a minor inconvenience dictate their whole day [[03:37](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=217)].
-- The practical filter: *"Will this matter in a year? In 5 years?"* If no, refuse to give it power [[05:00](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=300)].
+**2. Mastering detachment.** Detachment is not indifference — it's the wisdom to choose where to invest your emotional energy. Most people live in "reaction mode," letting a minor inconvenience dictate their whole day. The practical filter: *"Will this matter in a year? In five years?"* If no, refuse to give it power.
 
-**3. Let go of the uncontrollable** [[07:06](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=426)]
-- Forcing control over what's outside your influence (others' opinions, past mistakes) is inherently exhausting.
-- The two bags: one light (your actions, choices, effort), one heavy (other people's thoughts, external circumstances) [[07:42](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=462)]. Drop the heavy bag; put 100% of your energy into your own responses and next steps [[08:04](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=484)].
-- Same reason to run your own race: obsessing over competitors or colleagues is carrying the heavy bag. Compare yourself only to who you were yesterday; treat those ahead of you as worthy rivals who reveal your weaknesses, not threats to your ego.
+**3. Let go of the uncontrollable.** Forcing control over what's outside your influence — others' opinions, past mistakes — is exhausting. Picture two bags: a light one (your actions, choices, effort) and a heavy one (other people's thoughts, external circumstances). Drop the heavy bag and put 100% of your energy into your own responses and next steps. Running your own race is the same move: comparing yourself to colleagues is carrying the heavy bag — compare yourself only to who you were yesterday, and treat those ahead of you as worthy rivals who reveal your weaknesses.
 
-**4. Build systems, not just willpower** [[09:19](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=559)]
-- Willpower is finite. Consistently productive people rely on structures, not daily motivation — a marathon runner doesn't ask if they "feel" like running; they follow the schedule [[09:49](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=589)].
-- Automate minor decisions, design your environment to remove friction, build fixed routines so focus becomes your default state [[10:30](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=630)].
-- This is consistency-beats-intensity in practice: one all-nighter or one inspiring offsite changes nothing, like one gym session. Small and steady, daily, compounds.
+**4. Build systems, not just willpower.** Willpower is finite; consistently productive people rely on structures, not daily motivation. A marathon runner doesn't ask if they "feel" like running — they follow the schedule. Automate minor decisions, design your environment to remove friction, and build fixed routines so focus becomes your default state. It's consistency-beats-intensity in practice: one all-nighter changes nothing, like one gym session — small and steady compounds.
 
-**5. Protect your mental space** [[12:31](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=751)]
-- Energy and mindsets are contagious — you're constantly shaped by what you consume and who you spend time with.
-- Your mind is a garden: let weeds in (drama, chronic complaining, social-media comparison) and they choke out healthy growth [[13:33](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=813)]. Curate deliberately — limit negative influences, fill your space with people and ideas that push you to grow [[15:17](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=917)].
+**5. Protect your mental space.** Energy and mindsets are contagious — you're constantly shaped by what you consume and who you spend time with. Your mind is a garden: let the weeds in (drama, chronic complaining, social-media comparison) and they choke out healthy growth. Curate deliberately — limit negative influences, fill your space with people and ideas that push you to grow.
 
-> **Core takeaway:** staying focused isn't a daily battle of brute force. It's the natural byproduct of defining your purpose, establishing reliable systems, and ruthlessly protecting your peace of mind from things you cannot control [[12:04](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=724)].
+> **Core takeaway:** staying focused isn't a daily battle of brute force. It's the natural byproduct of defining your purpose, establishing reliable systems, and ruthlessly protecting your peace of mind from things you cannot control.
 
 ### Reactive vs. reflective
 - **Be the last to speak, not the first to react.** We're wired to assess fast and respond instantly — in leadership that reflex is expensive. A reactive answer under emotion can damage the Circle of Safety in seconds; a reflective one builds it.
