@@ -50,7 +50,33 @@ Bonus tactic: **speak within the first 5–10 minutes** of a meeting — the lon
 
 ---
 
-## 4. Topics to keep studying / impart to the team
+## 4. Simon Sinek digest — inspiring leadership
+
+Core idea: **leadership is not about being in charge — it's about taking care of those in your charge.** People don't buy *what* you do; they buy *why* you do it.
+
+### Start With Why (the Golden Circle)
+- Communicate in this order: **Why → How → What.** Purpose first, process second, product last.
+- People are inspired by purpose, not instructions. A team that knows *why* the work matters will out-perform a team that only knows *what* to deliver.
+- Practical use: open projects and team meetings by restating the "why" before assigning the "what."
+
+### Leaders Eat Last (the Circle of Safety)
+- Great leaders create a **Circle of Safety**: when people feel protected from internal politics, blame, and fear, they spend their energy on the work and on each other — not on self-defense.
+- Trust is biology: humans are wired to cooperate when they feel safe. Safety is built in small, consistent moments — showing up, listening, keeping promises.
+- The title is literal: in the Marines, officers eat last. **Leadership is sacrifice — the leader's comfort comes after the team's.**
+
+### The Infinite Game
+- Business has no finish line. Finite-minded leaders play to "win the quarter"; infinite-minded leaders play to **keep playing and keep improving**.
+- Five practices: advance a **just cause**, build **trusting teams**, study **worthy rivals** (learn from competitors instead of hating them), practice **existential flexibility**, and have the **courage to lead**.
+
+### Sinek habits worth imparting to your team
+- **Inspiration over manipulation.** Motivate with purpose and belonging, never with fear, pressure, or gimmicks.
+- **Replace judgment with curiosity.** Ask questions before drawing conclusions — about people and problems alike.
+- **Vulnerability builds trust.** People don't connect with perfection; admitting mistakes and asking for help makes a leader *more* credible, not less.
+- **Practice empathy.** When performance dips, ask "are you okay?" before "where are the numbers?"
+
+---
+
+## 5. Topics to keep studying / impart to the team
 
 **For the leader:** situational leadership, radical candor (care personally, challenge directly), delegation as development, managing energy not just time.
 
@@ -68,3 +94,8 @@ Bonus tactic: **speak within the first 5–10 minutes** of a meeting — the lon
 - [How to Advocate for Yourself and Get Noticed at Work — How to be Awesome at Your Job podcast](https://awesomeatyourjob.com/990-how-to-advocate-for-yourself-and-get-noticed-at-work-with-jessica-chen/)
 - [How To Speak Confidently At Work — Kim Kaupe podcast](https://kimkaupe.com/jessicachen/)
 - [Smart, Not Loud — The Learning Leader Show](https://learningleader.com/jessicachen/)
+- [Simon's 5 Tips to Build Strong Leadership Presence — simonsinek.com](https://simonsinek.com/stories/simons-5-tips-to-build-strong-leadership-presence)
+- [5 Leadership Learnings by Simon Sinek — Nordic Business Forum](https://www.nbforum.com/newsroom/blog/5-leadership-learnings-by-simon-sinek/)
+- [13 Lessons from Simon Sinek on Human Skills — Upskill Consulting](https://upskillconsulting.ca/2023/09/21/leadership-lessons-simon-sinek/)
+- [Start With Why — book summary](https://entiresummary.com/start-with-why-summary-by-simon-sinek/)
+- [18 leadership lessons from Simon Sinek — BTS Communications](https://www.btscommunications.com.au/blog/18-leadership-lessons-from-simon-sinek/)
