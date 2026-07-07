@@ -109,6 +109,22 @@ Core idea: **leadership is not about being in charge — it's about taking care 
 - Huang's own credentials in struggle: bullied at school, crossing a broken footbridge to get there, and proudly "the best dishwasher at Denny's" before founding NVIDIA. He hires for grit over pedigree.
 - **For your team:** when a project gets painful, name it as character-building in real time — "this is the part that makes us better" — and share your own past struggles. A team that has struggled *together* and come through is the one that becomes great.
 
+### Elon Musk — lead from the front
+> "Never ask your team to do something you aren't willing to do."
+
+- **Work alongside, not above.** Musk's credibility with engineers comes from sleeping on the factory floor during Tesla's "production hell" — leading by example, not by memo.
+- **Give the goal *and* the why:** "People work better when they know what the goal is and why. It is important that people look forward to coming to work in the morning and enjoy working."
+- **Make failure part of the process:** "Failure is an option here. If things are not failing, you are not innovating enough." — a blunt version of psychological safety for ambitious work.
+- **Reason from first principles:** "It's important to reason from first principles rather than by analogy... boil things down to the most fundamental truths and then reason up from there." Teach your team to ask "what do we actually know?" instead of "how has this always been done?"
+- For inspiration: "I think it is possible for ordinary people to choose to be extraordinary."
+
+### Satya Nadella (Microsoft CEO) — the learn-it-all
+> "Don't be a know-it-all; be a learn-it-all."
+
+- **Learn-it-all beats know-it-all.** Drawing on Carol Dweck's growth mindset: "The person who has less, but is a learn-it-all, will ultimately become better. That applies to CEOs, and that applies to companies." This mindset shift is how he turned Microsoft's infighting culture into a collaborative one (told in his book *Hit Refresh*).
+- **Empathy is a business skill:** "Empathy makes you a better innovator." Nadella learned it caring for his son, who had cerebral palsy: "I began to see the world through my son's eyes. That's what empathy is all about." You can't build products — or teams — for people you don't understand.
+- **For your team:** praise questions as much as answers. A team where admitting "I don't know, but I'll find out" is high-status will out-learn and eventually out-perform a team of know-it-alls.
+
 ---
 
 ## 6. Topics to keep studying / impart to the team
@@ -147,3 +163,10 @@ Core idea: **leadership is not about being in charge — it's about taking care 
 - [Jensen Huang at Stanford: pain and suffering breeds success — CNBC](https://www.cnbc.com/2024/03/15/nvidia-ceo-huang-at-stanford-pain-and-suffering-breeds-success.html)
 - [Jensen Huang: "I wish upon you ample doses of pain and suffering" — Fortune](https://fortune.com/article/jensen-huang-advice-high-expectations-make-it-hard-to-succeed/)
 - [Hiring for grit over pedigree — Forbes](https://www.forbes.com/sites/jackkelly/2024/04/01/i-hope-suffering-happens-to-you-hiring-for-grit-over-pedigree/)
+- [50 Elon Musk Leadership Quotes — Quarterdeck](https://quarterdeck.co.uk/articles/leadership-quotes-elon-musk/)
+- [Elon Musk Leadership Style Explained — MTD Training](https://www.mtdtraining.com/blog/elon-musk-leadership-explained.htm)
+- [10 Great Leadership Lessons from Elon Musk — Lean East](https://www.leaneast.com/10-great-leadership-lessons-from-elon-musk-2)
+- [Microsoft's CEO on the Power of Being a Learn-It-All — Next Big Idea Club](https://nextbigideaclub.com/magazine/conversation-microsofts-ceo-on-the-power-of-being-a-learn-it-all/17851/)
+- [Satya Nadella on growth mindsets — LinkedIn](https://www.linkedin.com/pulse/satya-nadella-growth-mindsets-learn-it-all-does-better-jessi-hempel)
+- [Satya Nadella Quotes on Culture, Innovation, and Leadership — JD Meier](https://jdmeier.com/satya-nadella-quotes/)
+- [Satya Nadella: Be Bold and Be Right — Stanford GSB](https://www.gsb.stanford.edu/insights/microsoft-ceo-satya-nadella-be-bold-be-right)
