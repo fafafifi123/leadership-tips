@@ -181,7 +181,41 @@ People follow leaders who make them feel safe, seen, and stretched. In practice:
 
 ---
 
-## 8. Topics to keep studying / impart to the team
+## 8. Hogan development plan — four leadership competencies
+
+Hogan's key insight: **leadership is reputation, not identity** — what matters is how others experience you, especially under pressure, when strengths become derailers (confidence reads as arrogance, drive as impatience, perfectionism as control). For each competency below, the pattern is the same: build the bright-side behavior, and know your dark-side trigger.
+
+### 8.1 Executive presence, visibility & credibility
+- **Presence is composure + clarity, not volume.** It's inner confidence plus making others feel heard, valued, and engaged (Chen). The unbothered leader in a crisis *is* executive presence.
+- **Credibility formula: say → do → point back.** Make commitments slightly under what you can deliver (Tan's "under promise, over deliver"), deliver visibly, repeat. Credibility compounds like interest.
+- **Visibility without self-promotion (Chen's Quiet Capital):** decide what you want to be known for, speak in the first 5–10 minutes of meetings (4A Sequence), share team wins upward by name — you get visibility as the leader of a winning team, which is the strongest kind.
+- **Hogan watch-out:** under pressure, don't disappear into heads-down work (the Quiet Culture derailer) — silence at the leadership table gets read as absence, not diligence. Name your trigger specifically: "when timelines slip, I go quiet / get controlling" — then pre-plan the counter-move.
+
+### 8.2 Effective communication
+- **Start with why (Sinek), tailored to who (Chen).** Before every important conversation: "Who am I speaking with, what do they care about, and what's the point I'm trying to make here?" Three questions, thirty seconds, transforms the message.
+- **Structure for busy people: headline first.** Give the conclusion, then the reasoning ("We should delay launch one week. Three reasons..."). Executives lose patience with build-up; teams lose clarity without it.
+- **Match the channel to the message.** Praise in public, correction in private, complex tradeoffs in a meeting, decisions in writing. A right message in the wrong channel fails.
+- **Listen reflectively before responding:** "So what you're telling me is..." — Sinek's reflective listening. People can't hear your point until they feel theirs was heard.
+- **Hogan watch-out:** under stress, communication derails toward either too blunt (reads as volatile) or too diplomatic (reads as evasive). Dimon's calibration: "put the truth forward, 100% the truth" — but with heart.
+
+### 8.3 Coaching skills
+- **Ask, don't tell — the core coaching move.** Replace "here's what to do" with "what have you tried? what options do you see? what would you do if I weren't here?" Nadella's learn-it-all culture starts with the leader asking questions they don't know the answers to.
+- **Use a simple structure (GROW):** Goal (what do you want?), Reality (what's actually happening?), Options (what could you do?), Will (what *will* you do, by when?). Fifteen minutes, works for careers and stuck tickets alike.
+- **Feedback that coaches:** specific behavior + impact + question. "In the client meeting you jumped to the solution before they finished describing the problem (behavior); they went quiet (impact); what did you notice?" (question). Compare Chen: specific praise teaches, generic praise is noise.
+- **Coach for growth, not rescue.** Resist solving it for them — every problem you take over is a rep they didn't get. Lisa Su's principle applies: assign people to hard problems *and let them struggle productively* (Huang: struggle builds character). Step in at the point of failure-with-consequences, not discomfort.
+- **Hogan watch-out:** the "dutiful/diligent" derailer — doing the work yourself because it's faster. It caps your team's growth at your personal bandwidth.
+
+### 8.4 Influence & negotiation with stakeholders
+- **Map interests, not positions.** A stakeholder's position is "no, we can't support that timeline"; their interest is "I can't risk my team's other commitments." Negotiate the interest — descope, resequence, trade resources — not the position.
+- **Build the relationship before you need it.** Influence is banked in small deposits: share information early, credit them publicly, deliver on small asks. Dimon's "get out of the office" applies internally — coffee with stakeholders when there's *no* ask pending is the highest-ROI influence work.
+- **Speak their scoreboard.** Finance hears risk and cost, engineering hears feasibility and debt, executives hear strategy and optics. Same proposal, translated per audience (Chen's audience-first rule, applied to negotiation).
+- **Name the shared goal out loud first.** "We both want this launch to succeed without burning either team" reframes the negotiation from adversaries to partners solving a constraint. Sinek's worthy-rival mindset: the other party reveals your blind spots.
+- **Ask for the criticism (Tan's move).** "What would make this proposal a no for you?" surfaces objections early, when they're cheap to fix — and signals confidence, which itself builds influence.
+- **Hogan watch-out:** under negotiation pressure, watch for the bold/excitable derailers — overcommitting to win the room, or visibly deflating at pushback. Pre-decide your walk-away and your "let me come back to you" line (the reflective pause works in negotiations too).
+
+---
+
+## 9. Topics to keep studying / impart to the team
 
 **For the leader:** situational leadership, radical candor (care personally, challenge directly), delegation as development, managing energy not just time.
 
@@ -232,3 +266,6 @@ People follow leaders who make them feel safe, seen, and stretched. In practice:
 - [Jamie Dimon: "put the truth forward" — Fortune](https://fortune.com/2025/05/31/jamie-dimon-leadership-lessons-jpmorgan-ceo-traits-public-service/)
 - [Jamie Dimon's Four Leadership Tips — Entrepreneur](https://www.entrepreneur.com/business-news/jpmorgan-ceo-jamie-dimons-four-leadership-tips-principles/488818)
 - [Jamie Dimon: get out of the office — Fortune](https://fortune.com/2025/04/07/jamie-dimon-jp-morgan-leadership-tariff-competitions/)
+- [Hogan Dark Side (HDS): Leadership Derailers & Coaching — Eve Coaching](https://www.evecoachingconsulting.com/insights/hogan-dark-side-leadership-derailers-coaching)
+- [Hogan Assessment System: A Complete Guide for Coaches — Simply.Coach](https://simply.coach/blog/hogan-assessment-guide/)
+- [How the Hogan Assessment Drives Executive Development — ImprovEdge](https://improvedge.com/how-the-hogan-assessment-drives-executive-development/)
