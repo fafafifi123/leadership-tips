@@ -157,6 +157,16 @@ Core idea: **leadership is not about being in charge — it's about taking care 
 - **Nobody wants to work for a jerk.** "People don't want to work for jerks" or bosses who blame others. "Leadership should always be about learning and questioning... nurture innovation, ambition, and discipline while discouraging complacency, arrogance, and bureaucracy."
 - **Get out of the office.** Go listen to people doing the real work, observe, and give honest assessments — leadership by walking around, not by dashboard.
 
+### Alex Hormozi — finite vs. infinite games
+> "Most people lose because they play infinite games with a finite perspective."
+
+The concept comes from philosopher James Carse (and Sinek's *The Infinite Game*, above); Hormozi's version is the blunt entrepreneur's cut:
+
+- **The two games.** A finite game has a defined endpoint, fixed rules, and winners and losers (a match, a quarter, a promotion cycle). An infinite game has no finish line — the only way to lose is to quit or run out of resources. Business, health, marriage, and careers are all infinite games.
+- **The mistake:** playing an infinite game with a finite mindset. Chasing "the win" (the revenue milestone, the dream body, the title) leaves you lost the day after you get it — or burned out chasing it.
+- **The fix:** "The game is to outlast. The game is to keep playing." Health isn't *getting* the body, it's staying in shape forever. Marriage isn't winning the wedding, it's staying married. Business isn't beating a rival, it's staying in business. **The game itself is the reward** — falling in love with the daily play, not the scoreboard.
+- **For your team:** frame the mission as an infinite game. Quarterly targets are finite games *inside* it — worth winning, but never worth sacrificing the ability to keep playing (burnout, cut corners, broken trust). This connects everything: consistency over intensity, systems over willpower, and running your own race are all infinite-game behaviors.
+
 ---
 
 ## 6. How to make your team *want* to work with you
@@ -277,3 +287,6 @@ Hogan's key insight: **leadership is reputation, not identity** — what matters
 - [Hogan Dark Side (HDS): Leadership Derailers & Coaching — Eve Coaching](https://www.evecoachingconsulting.com/insights/hogan-dark-side-leadership-derailers-coaching)
 - [Hogan Assessment System: A Complete Guide for Coaches — Simply.Coach](https://simply.coach/blog/hogan-assessment-guide/)
 - [How the Hogan Assessment Drives Executive Development — ImprovEdge](https://improvedge.com/how-the-hogan-assessment-drives-executive-development/)
+- [Alex Hormozi on finite vs infinite games — X/Twitter](https://x.com/AlexHormozi/status/1644911266895650816)
+- [Finite Games vs Infinite Games — Alex Hormozi (YouTube)](https://www.youtube.com/shorts/EW0srqwWjqA)
+- [Game Theory: Infinite vs Finite Games — The Game podcast, Alex Hormozi](https://gymlaunch.libsyn.com/ep-59-game-theory-infinite-vs-finite-games-and-how-it-can-massively-transform-your-business-this-is-really-cool)
