@@ -68,6 +68,12 @@ Core idea: **leadership is not about being in charge — it's about taking care 
 - Business has no finish line. Finite-minded leaders play to "win the quarter"; infinite-minded leaders play to **keep playing and keep improving**.
 - Five practices: advance a **just cause**, build **trusting teams**, study **worthy rivals** (learn from competitors instead of hating them), practice **existential flexibility**, and have the **courage to lead**.
 
+### How to be unbothered (performing under pressure)
+- **Reframe nervous as excited.** The body's signals for nervousness and excitement are physiologically almost identical — racing heart, tension, anticipation. The only difference is the label you give them. Elite and Olympic athletes feel the same sensations before competing; they've trained themselves to say "I'm excited," not "I'm nervous."
+- **Say it out loud.** When pressure hits, literally tell yourself "what I'm feeling is excitement" and name *why* the moment is exciting. It feels forced at first; with repetition the reframe becomes automatic, like a habit you no longer notice.
+- **Make it about them, not you.** Sinek's own calming trick: shift focus from "how will I perform?" to "who am I here to serve?" Nerves are self-focused; service is other-focused. The moment it's about your team, your audience, or your customer, the pressure drops. (Notice this is the same move as Jessica Chen's audience-first question.)
+- **For your team:** teach them that pressure means the moment *matters* — the goal isn't to feel nothing, it's to interpret the feeling as readiness. An unbothered team isn't emotionless; it's a team that has practiced the reframe together.
+
 ### Sinek habits worth imparting to your team
 - **Inspiration over manipulation.** Motivate with purpose and belonging, never with fear, pressure, or gimmicks.
 - **Replace judgment with curiosity.** Ask questions before drawing conclusions — about people and problems alike.
@@ -99,3 +105,6 @@ Core idea: **leadership is not about being in charge — it's about taking care 
 - [13 Lessons from Simon Sinek on Human Skills — Upskill Consulting](https://upskillconsulting.ca/2023/09/21/leadership-lessons-simon-sinek/)
 - [Start With Why — book summary](https://entiresummary.com/start-with-why-summary-by-simon-sinek/)
 - [18 leadership lessons from Simon Sinek — BTS Communications](https://www.btscommunications.com.au/blog/18-leadership-lessons-from-simon-sinek/)
+- [Nervous vs. Excited — Simon Sinek (video)](https://www.facebook.com/simonsinek/videos/nervous-vs-excited/10156377400506499/)
+- [Simon Sinek on Performing Under Pressure — Unimy](https://www.unimy.com/article/mba-admissions/blog-interesting-simon-sinek-performing-under-pressure-video)
+- [How to Reframe Your Nervousness as Excitement — For The Interested](https://fortheinterested.com/how-to-reframe-your-nervousness-as-excitement/)
