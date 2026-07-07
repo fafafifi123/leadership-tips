@@ -95,7 +95,7 @@ Core idea: **leadership is not about being in charge — it's about taking care 
 
 ---
 
-## 5. Tech CEO lessons — hard problems and struggle
+## 5. Lessons from world-class CEOs
 
 ### Lisa Su (AMD CEO) — run towards the hardest problems
 - As a young IBM engineer, Su was told by executive John Kelly to **"run towards the hardest problems."** She calls it the best career advice she ever received — it eventually led her to take over a near-collapsing AMD in 2014 and turn it into an AI chip powerhouse.
@@ -125,9 +125,63 @@ Core idea: **leadership is not about being in charge — it's about taking care 
 - **Empathy is a business skill:** "Empathy makes you a better innovator." Nadella learned it caring for his son, who had cerebral palsy: "I began to see the world through my son's eyes. That's what empathy is all about." You can't build products — or teams — for people you don't understand.
 - **For your team:** praise questions as much as answers. A team where admitting "I don't know, but I'll find out" is high-status will out-learn and eventually out-perform a team of know-it-alls.
 
+### Lip-Bu Tan (Intel CEO) — stay humble, delight customers
+> "Stay humble. Work hard. Delight our customers."
+
+- **Surround yourself with smarter people:** "I may not be the smartest guy in the room. But I surround myself with the smartest people, who are much smarter than me. And I have learned from them."
+- **Under promise, over deliver.** His personal motto — credibility is built by delivery, not announcements.
+- **Invite brutally honest feedback.** At Cadence he asked a major customer to grade his products, got failing marks, and used that critique to drive a decade-long transformation. At Intel he asks customers for "brutally honest" feedback the same way.
+- **Kill bureaucracy, build one team:** "Organizational complexity and bureaucratic processes have been slowly suffocating the culture of innovation we need to win." His first move as CEO was flattening management layers and breaking silos into a "one-team culture."
+- Bonus Intel classic — Andy Grove: **"Only the paranoid survive."** Success breeds complacency; keep the team scanning for what could disrupt you.
+
+### Mark Zuckerberg (Meta CEO) — speed and risk
+> "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks."
+
+- **Move fast:** "Move fast and break things. Unless you are breaking stuff, you are not moving fast enough." (Meta later matured it to "move fast with stable infrastructure" — speed with judgment.)
+- **Do something > do nothing:** "You're better off trying something and having it not work and learning from that, than having not done anything at all."
+- **Own your mistakes openly:** "I made so many mistakes in running the company so far — basically any mistake you can think of, I probably made." A leader admitting this publicly gives the whole team permission to take swings.
+
+### Jamie Dimon (JPMorgan CEO) — truth, heart, and decisiveness
+> "Don't put a good foot forward — put the truth forward, 100% the truth."
+
+- **Have a heart.** Humility means showing you genuinely care and treating everyone with respect, "whether it's the person cleaning the bathrooms or a CEO." "People know when you care about them. They know if you're real."
+- **Be decisive.** Grit is making decisions quickly and sticking to them: "You have to say 'absolutely not,' or 'absolutely, take the chance — go for it.'" That decisiveness is how JPMorgan moved on Bear Stearns and Washington Mutual during the 2008 crisis while others froze.
+- **Nobody wants to work for a jerk.** "People don't want to work for jerks" or bosses who blame others. "Leadership should always be about learning and questioning... nurture innovation, ambition, and discipline while discouraging complacency, arrogance, and bureaucracy."
+- **Get out of the office.** Go listen to people doing the real work, observe, and give honest assessments — leadership by walking around, not by dashboard.
+
 ---
 
-## 6. Topics to keep studying / impart to the team
+## 6. How to make your team *want* to work with you
+
+People follow leaders who make them feel safe, seen, and stretched. In practice:
+
+1. **Be trustworthy before being impressive.** Do what you said, when you said, every time. Consistency in small promises (Sinek's trust-in-small-moments) is worth more than occasional heroics.
+2. **Care about them as people, not resources.** Know what they're working toward in their careers and lives. Dimon's rule: "People know when you care about them. They know if you're real."
+3. **Give them the why, then get out of the way.** Purpose plus autonomy is the strongest retention force there is. Micromanagement is the fastest way to make good people leave.
+4. **Fight for them visibly.** Push for their promotions, credit them by name in front of your bosses, and take the blame yourself when things go wrong. "Praise goes down to the team, blame stops with me" — people run through walls for leaders who do this.
+5. **Make working with you a growth experience.** People want to work for leaders they learn from. Share your thinking out loud ("here's why I'm deciding this way"), delegate stretch work, and let them see your standards up close.
+6. **Be pleasant under stress.** Nobody wants to work for a jerk (Dimon) — and everyone is watching who you become on the worst day, not the best one. Your behavior in crisis is your real reputation.
+7. **Ask for their opinion and actually use it.** Nothing bonds a team to a leader like seeing their input change the plan. Say "we're doing X because of Rina's point" — visibly crediting ideas teaches everyone that contributing matters.
+
+---
+
+## 7. Taking criticism and handling pressure without passing it to your team
+
+### Taking criticism well
+- **Treat criticism as data, not verdict.** Lip-Bu Tan asked his biggest customer to grade his products, got failing marks, and used it to fuel a decade-long transformation. The question is never "was that fair?" — it's "what's the useful 20% in this?"
+- **Respond reflectively, not reactively (Sinek).** Three-second pause, check your emotional state, then: "Thank you — let me think about that properly and come back to you." You never lose credibility by considering criticism; you lose it by getting defensive.
+- **Be a learn-it-all (Nadella).** A know-it-all hears criticism as an attack on their identity; a learn-it-all hears it as free coaching. Say back what you heard ("so what you're seeing is...") before you defend anything.
+- **Model it publicly.** When your team sees you take hard feedback gracefully — "good point, I got that wrong, here's what I'll change" — you've just taught the whole team how to receive *your* feedback. That's psychological safety built by demonstration.
+
+### Handling pressure without leaking it downward
+- **You are the shock absorber, not the amplifier.** Pressure from above is information for *you* to convert into clear priorities — not raw anxiety to forward. Translate "management is furious about the deadline" into "our top priority this week is X; I've descoped Y to make room."
+- **Reframe the surge (Sinek):** the racing heart before a hard meeting is excitement that the moment matters. Name it that way, out loud if needed.
+- **Process up and sideways, not down.** Vent to your own manager, a peer, or a mentor — never to the people who depend on your stability. With your team, be honest about facts ("the timeline is tight and leadership is watching") but calm in delivery; hiding reality breeds rumors, panicking about it breeds fear.
+- **Keep your routines when it matters most.** Consistency beats intensity applies to composure too: sleep, exercise, and the three-second pause are what make "unbothered" physically possible. A depleted leader leaks stress no matter how good their poker face is.
+
+---
+
+## 8. Topics to keep studying / impart to the team
 
 **For the leader:** situational leadership, radical candor (care personally, challenge directly), delegation as development, managing energy not just time.
 
@@ -170,3 +224,11 @@ Core idea: **leadership is not about being in charge — it's about taking care 
 - [Satya Nadella on growth mindsets — LinkedIn](https://www.linkedin.com/pulse/satya-nadella-growth-mindsets-learn-it-all-does-better-jessi-hempel)
 - [Satya Nadella Quotes on Culture, Innovation, and Leadership — JD Meier](https://jdmeier.com/satya-nadella-quotes/)
 - [Satya Nadella: Be Bold and Be Right — Stanford GSB](https://www.gsb.stanford.edu/insights/microsoft-ceo-satya-nadella-be-bold-be-right)
+- [Lip-Bu Tan: "I Love This Company. And I Think That This Company Deserves Something Better." — Columbia Business School](https://business.columbia.edu/insights/digital-future/why-i-love-company-and-think-it-deserves-better)
+- [Lip-Bu Tan: Remaking Our Company for the Future — Intel Newsroom](https://newsroom.intel.com/corporate/lip-bu-tan-remaking-our-company-future)
+- [New Intel CEO vows humility and execution — Nikkei Asia](https://asia.nikkei.com/business/technology/new-intel-ceo-vows-humility-focus-on-execution-in-turnaround-push)
+- [Mark Zuckerberg quotes on risk — Goodreads](https://www.goodreads.com/quotes/842041-the-biggest-risk-is-not-taking-any-risk-in-a)
+- [50 Inspiring Mark Zuckerberg Quotes — Born Realist](https://bornrealist.com/mark-zuckerberg-quotes/)
+- [Jamie Dimon: "put the truth forward" — Fortune](https://fortune.com/2025/05/31/jamie-dimon-leadership-lessons-jpmorgan-ceo-traits-public-service/)
+- [Jamie Dimon's Four Leadership Tips — Entrepreneur](https://www.entrepreneur.com/business-news/jpmorgan-ceo-jamie-dimons-four-leadership-tips-principles/488818)
+- [Jamie Dimon: get out of the office — Fortune](https://fortune.com/2025/04/07/jamie-dimon-jp-morgan-leadership-tariff-competitions/)
