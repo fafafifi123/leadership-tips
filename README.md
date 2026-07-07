@@ -165,7 +165,44 @@ The concept comes from philosopher James Carse (and Sinek's *The Infinite Game*,
 - **The two games.** A finite game has a defined endpoint, fixed rules, and winners and losers (a match, a quarter, a promotion cycle). An infinite game has no finish line — the only way to lose is to quit or run out of resources. Business, health, marriage, and careers are all infinite games.
 - **The mistake:** playing an infinite game with a finite mindset. Chasing "the win" (the revenue milestone, the dream body, the title) leaves you lost the day after you get it — or burned out chasing it.
 - **The fix:** "The game is to outlast. The game is to keep playing." Health isn't *getting* the body, it's staying in shape forever. Marriage isn't winning the wedding, it's staying married. Business isn't beating a rival, it's staying in business. **The game itself is the reward** — falling in love with the daily play, not the scoreboard.
-- **For your team:** frame the mission as an infinite game. Quarterly targets are finite games *inside* it — worth winning, but never worth sacrificing the ability to keep playing (burnout, cut corners, broken trust). This connects everything: consistency over intensity, systems over willpower, and running your own race are all infinite-game behaviors.
+
+**In the corporate world — what's finite and what's infinite:**
+
+| Finite game (a round) | Infinite game (the real one) |
+|---|---|
+| This quarter's KPI / OKR | The company staying competitive for decades |
+| The promotion cycle | Your career and reputation over 30 years |
+| Winning this meeting or argument | The stakeholder relationship you'll need for years |
+| This project's deadline | Your team's trust, health, and capability |
+| Beating a rival team to budget/headcount | Being the leader people want to work for |
+
+In an infinite game, **the concept of "beating" someone doesn't actually exist** — there is no finish line and no final score. When you shift from *beating the competition* to *outlasting the competition*, your entire strategy changes.
+
+**The trap of trying to "beat" others.** When you focus entirely on beating a rival — a competing company, another team in your organization, or a peer vying for the same promotion — you inherit three strategic flaws:
+
+- **You become reactive.** Your strategy is dictated by *their* moves, not your vision. If they build a feature or adopt a process, you feel forced to copy it even when it doesn't fit your long-term goals.
+- **You optimize for the wrong things.** You make short-term decisions to look better *right now* — shipping a buggy product just to beat them to market, hoarding resources from another internal team to make your metrics look superior, burning the team to hit a deadline.
+- **You exhaust your resources.** You drain your team's energy or your capital winning a temporary battle, leaving yourself vulnerable to the next unexpected shift. Next quarter the targets reset — but the depleted, distrustful team carries over.
+
+**The infinite approach: worthy rivals.** Instead of competitors to be beaten, the infinite mindset sees **worthy rivals — players whose strengths reveal your weaknesses.** You don't need to hate them, sabotage them, or measure your self-worth against them; you respect them because their existence forces you to step up. If a rival team delivers faster with higher quality, don't look for ways to diminish their success — study their pipelines, their testing, their culture, and ask what *your* team can learn. And remember corporate memories are long: the peer you beat ugly in this reorg may be your boss or key stakeholder in the next one. Every interaction is a deposit or withdrawal in a game that doesn't end.
+
+**The only true competitor is yourself.** Players don't lose infinite games because a competitor "won" — they lose because they ran out of the will or the resources to keep playing. They self-implode. So the only metric that matters is **continuous improvement against your own past performance.**
+
+```
+    FINITE MINDSET                         INFINITE MINDSET
+┌─────────────────────┐                 ┌─────────────────────┐
+│   Us vs. Them       │                 │   Us Yesterday vs.  │
+│                     │                 │   Us Today          │
+│  "How do we beat    │                 │                     │
+│   their metrics?"   │                 │  "How do we improve │
+└─────────────────────┘                 │   our own system?"  │
+                                        └─────────────────────┘
+```
+
+When you stop trying to beat others, you free up an immense amount of energy. You stop worrying about the noise, the office politics, and the fleeting moves of external players — and channel that focus into building a system, a product, and a career so resilient, high-performing, and grounded in its own purpose that it becomes virtually impossible to knock out of the game.
+
+- **Career version:** a missed promotion is a lost round, not a lost game. The infinite-game player compounds skills, relationships, and reputation — which is why they eventually out-earn the finite player who politicks for the next title. Lisa Su's "run at hard problems" is an infinite-game career move: short-term discomfort for compounding growth.
+- **Leader's framing for the team:** "Targets are the score of this round — we play every round to win. But the real game is that this team is still strong, trusted, and learning three years from now. We never win a quarter in a way that costs us the game." This connects everything: consistency over intensity, systems over willpower, and running your own race are all infinite-game behaviors.
 
 ---
 
