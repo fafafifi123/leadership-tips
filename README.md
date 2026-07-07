@@ -74,6 +74,19 @@ Core idea: **leadership is not about being in charge — it's about taking care 
 - **Make it about them, not you.** Sinek's own calming trick: shift focus from "how will I perform?" to "who am I here to serve?" Nerves are self-focused; service is other-focused. The moment it's about your team, your audience, or your customer, the pressure drops. (Notice this is the same move as Jessica Chen's audience-first question.)
 - **For your team:** teach them that pressure means the moment *matters* — the goal isn't to feel nothing, it's to interpret the feeling as readiness. An unbothered team isn't emotionless; it's a team that has practiced the reframe together.
 
+### Staying unbothered and focused
+*(themes from ["How to Stay Unbothered and Focused" — Simon Sinek speech compilation](https://www.youtube.com/watch?v=Y72f_ul5Bu4))*
+- **Run your own race.** Obsessing over competitors (or colleagues) drains focus. The most successful people and companies ignore the scoreboard and concentrate on improving themselves and serving the people who count on them.
+- **Compete against yourself.** The only meaningful comparison is "am I better than I was yesterday?" Comparison with others breeds either arrogance or insecurity — both are distractions.
+- **Turn competitors into worthy rivals.** When someone is better than you at something, let them *reveal your weaknesses* instead of triggering your ego. Apple focused on teachers and beautiful products; Ballmer-era Microsoft obsessed over beating Apple — focus on your cause wins.
+- **Consistency beats intensity.** One heroic all-nighter, one great offsite, one inspiring speech changes nothing — like one gym session or one date night. Brushing your teeth twice a day is what works. Show up small and steady, daily, and let the results compound. Being unbothered is easy when your confidence comes from a daily practice, not from a single outcome.
+
+### Reactive vs. reflective
+- **Be the last to speak, not the first to react.** We're wired to assess fast and respond instantly — in leadership that reflex is expensive. A reactive answer under emotion can damage the Circle of Safety in seconds; a reflective one builds it.
+- **The three-second pause.** Before responding to a problem or a mistake, pause and check your own emotional state. That tiny gap is the difference between reacting from emotion and responding with intent.
+- **Use reflective listening.** Play back what you heard — "so what you're telling me is..." — before giving your view. People open up when they feel heard first, and you often discover the real problem isn't the one first stated.
+- **For your team:** normalize "let me think about that and come back to you" as a strong answer, not a weak one. Speed of response is not the same as quality of judgment.
+
 ### Sinek habits worth imparting to your team
 - **Inspiration over manipulation.** Motivate with purpose and belonging, never with fear, pressure, or gimmicks.
 - **Replace judgment with curiosity.** Ask questions before drawing conclusions — about people and problems alike.
@@ -82,7 +95,23 @@ Core idea: **leadership is not about being in charge — it's about taking care 
 
 ---
 
-## 5. Topics to keep studying / impart to the team
+## 5. Tech CEO lessons — hard problems and struggle
+
+### Lisa Su (AMD CEO) — run towards the hardest problems
+- As a young IBM engineer, Su was told by executive John Kelly to **"run towards the hardest problems."** She calls it the best career advice she ever received — it eventually led her to take over a near-collapsing AMD in 2014 and turn it into an AI chip powerhouse.
+- Why it works: the hardest problems are **where the biggest opportunities are, where you learn the fastest, where you set yourself apart, and where you grow.** Easy problems have queues of people; hard problems have vacancies.
+- Her caveat: don't pick something *only* because it's hard — pick hard problems that interest you and where you can make an impact.
+- **For your team:** reward the people who volunteer for the gnarliest tickets and the ambiguous projects, not just the ones who close the most easy ones. Tell them explicitly: hard problems are the fast track.
+
+### Jensen Huang (NVIDIA CEO) — greatness comes from struggle
+- His famous line to Stanford students: **"I wish upon you ample doses of pain and suffering."** Not cruelty — his point is that **"greatness is not intelligence. Greatness comes from character, and character is formed out of people who suffered."**
+- **High expectations, low resilience.** People who've only known success are fragile when reality hits; "one of my great advantages is that I have very low expectations." Expect setbacks and they can't break you.
+- Huang's own credentials in struggle: bullied at school, crossing a broken footbridge to get there, and proudly "the best dishwasher at Denny's" before founding NVIDIA. He hires for grit over pedigree.
+- **For your team:** when a project gets painful, name it as character-building in real time — "this is the part that makes us better" — and share your own past struggles. A team that has struggled *together* and come through is the one that becomes great.
+
+---
+
+## 6. Topics to keep studying / impart to the team
 
 **For the leader:** situational leadership, radical candor (care personally, challenge directly), delegation as development, managing energy not just time.
 
@@ -108,3 +137,13 @@ Core idea: **leadership is not about being in charge — it's about taking care 
 - [Nervous vs. Excited — Simon Sinek (video)](https://www.facebook.com/simonsinek/videos/nervous-vs-excited/10156377400506499/)
 - [Simon Sinek on Performing Under Pressure — Unimy](https://www.unimy.com/article/mba-admissions/blog-interesting-simon-sinek-performing-under-pressure-video)
 - [How to Reframe Your Nervousness as Excitement — For The Interested](https://fortheinterested.com/how-to-reframe-your-nervousness-as-excitement/)
+- [How to Stay Unbothered and Focused — Simon Sinek speech compilation (YouTube)](https://www.youtube.com/watch?v=Y72f_ul5Bu4)
+- [Simon Sinek — Why Consistency Beats Intensity — The Learning Leader Show](https://learningleader.com/sinekhawk348/)
+- [Simon Sinek on Intensity vs Consistency — The RSA](https://www.thersa.org/video/shorts/2017/simon-sinek-on-intensity-vs-consistency)
+- [Simon Sinek's Infinite Game: worthy rivals — Marie Forleo](https://www.marieforleo.com/blog/simon-sinek-infinite-game)
+- [Simon Sinek self-awareness and the pause-and-reflect technique — Ahead App](https://ahead-app.com/blog/Mindfulness/simon-sinek-self-awareness-build-leadership-through-circle-of-safety)
+- [Lisa Su: best career advice I ever received — CNBC](https://www.cnbc.com/2025/05/16/amd-ceo-lisa-su-best-piece-of-career-advice-ive-ever-received.html)
+- [Lisa Su tells grads "don't walk, run" towards the hardest challenges — Fortune](https://fortune.com/2025/05/14/amd-ceo-lisa-su-gen-z-college-graduates-advice-run-to-challenges-fast-track-promotions/)
+- [Jensen Huang at Stanford: pain and suffering breeds success — CNBC](https://www.cnbc.com/2024/03/15/nvidia-ceo-huang-at-stanford-pain-and-suffering-breeds-success.html)
+- [Jensen Huang: "I wish upon you ample doses of pain and suffering" — Fortune](https://fortune.com/article/jensen-huang-advice-high-expectations-make-it-hard-to-succeed/)
+- [Hiring for grit over pedigree — Forbes](https://www.forbes.com/sites/jackkelly/2024/04/01/i-hope-suffering-happens-to-you-hiring-for-grit-over-pedigree/)
