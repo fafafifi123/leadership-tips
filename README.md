@@ -74,12 +74,33 @@ Core idea: **leadership is not about being in charge — it's about taking care 
 - **Make it about them, not you.** Sinek's own calming trick: shift focus from "how will I perform?" to "who am I here to serve?" Nerves are self-focused; service is other-focused. The moment it's about your team, your audience, or your customer, the pressure drops. (Notice this is the same move as Jessica Chen's audience-first question.)
 - **For your team:** teach them that pressure means the moment *matters* — the goal isn't to feel nothing, it's to interpret the feeling as readiness. An unbothered team isn't emotionless; it's a team that has practiced the reframe together.
 
-### Staying unbothered and focused
-*(themes from ["How to Stay Unbothered and Focused" — Simon Sinek speech compilation](https://www.youtube.com/watch?v=Y72f_ul5Bu4))*
-- **Run your own race.** Obsessing over competitors (or colleagues) drains focus. The most successful people and companies ignore the scoreboard and concentrate on improving themselves and serving the people who count on them.
-- **Compete against yourself.** The only meaningful comparison is "am I better than I was yesterday?" Comparison with others breeds either arrogance or insecurity — both are distractions.
-- **Turn competitors into worthy rivals.** When someone is better than you at something, let them *reveal your weaknesses* instead of triggering your ego. Apple focused on teachers and beautiful products; Ballmer-era Microsoft obsessed over beating Apple — focus on your cause wins.
-- **Consistency beats intensity.** One heroic all-nighter, one great offsite, one inspiring speech changes nothing — like one gym session or one date night. Brushing your teeth twice a day is what works. Show up small and steady, daily, and let the results compound. Being unbothered is easy when your confidence comes from a daily practice, not from a single outcome.
+### Staying unbothered and focused — the five pillars
+*(from ["How to Stay Unbothered and Focused" — Simon Sinek speech compilation](https://www.youtube.com/watch?v=Y72f_ul5Bu4))*
+
+**1. Clarity of purpose — the "why"** [[02:48](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=168)]
+- Staying unbothered isn't about ignoring the world; it's about having a purpose so strong that distractions naturally lose their grip.
+- Like a captain in rough waters: with a clear destination you stay on course; without one, every wave becomes an excuse to turn back [[00:51](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=51)].
+- When you wake up knowing exactly what you're working toward, setbacks become lessons rather than roadblocks [[01:24](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=84)].
+
+**2. Mastering detachment** [[03:23](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=203)]
+- Detachment is not indifference — it's the wisdom to choose where to invest your emotional energy. Most people live in "reaction mode," letting a minor inconvenience dictate their whole day [[03:37](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=217)].
+- The practical filter: *"Will this matter in a year? In 5 years?"* If no, refuse to give it power [[05:00](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=300)].
+
+**3. Let go of the uncontrollable** [[07:06](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=426)]
+- Forcing control over what's outside your influence (others' opinions, past mistakes) is inherently exhausting.
+- The two bags: one light (your actions, choices, effort), one heavy (other people's thoughts, external circumstances) [[07:42](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=462)]. Drop the heavy bag; put 100% of your energy into your own responses and next steps [[08:04](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=484)].
+- Same reason to run your own race: obsessing over competitors or colleagues is carrying the heavy bag. Compare yourself only to who you were yesterday; treat those ahead of you as worthy rivals who reveal your weaknesses, not threats to your ego.
+
+**4. Build systems, not just willpower** [[09:19](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=559)]
+- Willpower is finite. Consistently productive people rely on structures, not daily motivation — a marathon runner doesn't ask if they "feel" like running; they follow the schedule [[09:49](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=589)].
+- Automate minor decisions, design your environment to remove friction, build fixed routines so focus becomes your default state [[10:30](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=630)].
+- This is consistency-beats-intensity in practice: one all-nighter or one inspiring offsite changes nothing, like one gym session. Small and steady, daily, compounds.
+
+**5. Protect your mental space** [[12:31](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=751)]
+- Energy and mindsets are contagious — you're constantly shaped by what you consume and who you spend time with.
+- Your mind is a garden: let weeds in (drama, chronic complaining, social-media comparison) and they choke out healthy growth [[13:33](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=813)]. Curate deliberately — limit negative influences, fill your space with people and ideas that push you to grow [[15:17](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=917)].
+
+> **Core takeaway:** staying focused isn't a daily battle of brute force. It's the natural byproduct of defining your purpose, establishing reliable systems, and ruthlessly protecting your peace of mind from things you cannot control [[12:04](https://www.youtube.com/watch?v=Y72f_ul5Bu4&t=724)].
 
 ### Reactive vs. reflective
 - **Be the last to speak, not the first to react.** We're wired to assess fast and respond instantly — in leadership that reflex is expensive. A reactive answer under emotion can damage the Circle of Safety in seconds; a reflective one builds it.
