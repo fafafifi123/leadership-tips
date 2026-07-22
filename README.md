@@ -269,6 +269,11 @@ Hogan's key insight: **leadership is reputation, not identity** — what matters
 - **Ask for the criticism (Tan's move).** "What would make this proposal a no for you?" surfaces objections early, when they're cheap to fix — and signals confidence, which itself builds influence.
 - **Hogan watch-out:** under negotiation pressure, watch for the bold/excitable derailers — overcommitting to win the room, or visibly deflating at pushback. Pre-decide your walk-away and your "let me come back to you" line (the reflective pause works in negotiations too).
 
+### 8.5 Influence without formal power
+- **Lose to win — strategic concession.** Give up a smaller, visible fight to win the larger game: concede a point you don't need in the room to bank credibility for later, or take a short-term hit (miss a KPI, let a rival "win" a round) to protect something that compounds — trust, reputation, health. Same infinite-game logic as Hormozi's finite-vs-infinite framing (§5): the game is to outlast, not to win every round.
+- **Win people over before you need them.** Genuine interest before self-interest — ask about them before making your point (Chen's audience-first). Credit specifically and publicly (§1.6, §6.4). Never win the argument and lose the person — arguing someone into a corner makes them defend the position harder; ask questions instead (Nadella, §8.3).
+- **Trade in currencies, not orders.** Cohen & Bradley's model: you can't command a peer, so trade in what they value — task currencies (resources, expertise), relationship currencies (trust, being easy to work with), personal currencies (making them look good, a sense of ownership), position currencies (visibility, credit). Figure out what they're optimizing for, then offer something in that currency before you ask for anything. This generalizes §8.4's "map interests, not positions" to anyone who doesn't report to you.
+
 ---
 
 ## 9. Topics to keep studying / impart to the team
@@ -277,7 +282,7 @@ Hogan's key insight: **leadership is reputation, not identity** — what matters
 
 **For the team:** extreme ownership ("no one is coming — it's on us"), growth mindset, the 1% rule (small daily improvements compound), and speaking up smart (the 4A Sequence above).
 
-**Books:** *Leaders Eat Last* (Sinek) · *Radical Candor* (Scott) · *Extreme Ownership* (Willink) · *Smart, Not Loud* (Chen).
+**Books:** *Leaders Eat Last* (Sinek) · *Radical Candor* (Scott) · *Extreme Ownership* (Willink) · *Smart, Not Loud* (Chen) · *How to Win Friends and Influence People* (Carnegie) · *Influence Without Authority* (Cohen & Bradley).
 
 ---
 
