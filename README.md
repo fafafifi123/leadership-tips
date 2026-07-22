@@ -247,6 +247,7 @@ Hogan's key insight: **leadership is reputation, not identity** — what matters
 - **Hogan watch-out:** under pressure, don't disappear into heads-down work (the Quiet Culture derailer) — silence at the leadership table gets read as absence, not diligence. Name your trigger specifically: "when timelines slip, I go quiet / get controlling" — then pre-plan the counter-move.
 
 ### 8.2 Effective communication
+- **Being right isn't the same as being effective — read the room first.** Correctness is about the content; landing it also depends on the channel — the listener's mood, bandwidth, and politics in that moment. This is Goleman's *social awareness* pillar of EQ: sense the room before you speak, not just the facts. A technically right point made at the wrong moment (e.g. correcting your boss when they're already stressed) can cost more credibility than holding it for a better window.
 - **Start with why (Sinek), tailored to who (Chen).** Before every important conversation: "Who am I speaking with, what do they care about, and what's the point I'm trying to make here?" Three questions, thirty seconds, transforms the message.
 - **Structure for busy people: headline first.** Give the conclusion, then the reasoning ("We should delay launch one week. Three reasons..."). Executives lose patience with build-up; teams lose clarity without it.
 - **Match the channel to the message.** Praise in public, correction in private, complex tradeoffs in a meeting, decisions in writing. A right message in the wrong channel fails.
