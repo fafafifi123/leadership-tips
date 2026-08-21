@@ -274,6 +274,27 @@ Hogan's key insight: **leadership is reputation, not identity** — what matters
 - **Win people over before you need them.** Genuine interest before self-interest — ask about them before making your point (Chen's audience-first). Credit specifically and publicly (§1.6, §6.4). Never win the argument and lose the person — arguing someone into a corner makes them defend the position harder; ask questions instead (Nadella, §8.3).
 - **Trade in currencies, not orders.** Cohen & Bradley's model: you can't command a peer, so trade in what they value — task currencies (resources, expertise), relationship currencies (trust, being easy to work with), personal currencies (making them look good, a sense of ownership), position currencies (visibility, credit). Figure out what they're optimizing for, then offer something in that currency before you ask for anything. This generalizes §8.4's "map interests, not positions" to anyone who doesn't report to you.
 
+### 8.6 Assertiveness — saying no and demanding respect without being a jerk
+
+Assertiveness isn't a personality trait, it's a skill: state your position clearly, hold the line under pushback, and stay respectful the whole time. The jerk version wins the exchange and loses the relationship; the doormat version keeps the relationship and loses the exchange. The goal is both.
+
+| Passive | Assertive (the target) | Aggressive |
+|---|---|---|
+| "Sure, I'll figure it out" while quietly resentful | "I can't take this on without dropping X — your call which one" | "That's not my problem, figure it out yourself" |
+| Absorbs disrespect to keep the peace | States impact and asks for a change, once, clearly | Attacks the person, not the behavior |
+| Boundary erodes with each request | Boundary is consistent whether or not the room is watching | Boundary is enforced with intimidation |
+| Builds resentment that leaks out sideways later | Builds respect — people know where they stand with you | Builds fear, which looks like respect until people route around you |
+
+- **Clear is kind. Unclear is unkind (Brené Brown).** Vague, hedged pushback ("maybe we could possibly think about whether...") is often mistaken for kindness — it isn't. It just moves the discomfort from now (a direct conversation) to later (a bigger blowup, or quiet resentment). Say the direct thing, early, while it's still small.
+- **The Positive No — Yes-No-Yes (William Ury, *The Power of a Positive No*).** A no lands as respectful, not hostile, when it's wrapped around a yes: **Yes** (what you're protecting — the deeper commitment behind the no) → **No** (the actual boundary, stated plainly) → **Yes** (an alternative path forward, if one exists). *"Yes, I want this launch to succeed — no, I can't add another workstream to my plate this sprint — but here's who has the bandwidth, or here's what I'd cut to make room."* The first Yes is what keeps it from sounding like rejection.
+- **Radical Candor: care personally + challenge directly (Kim Scott).** The two axes that produce respect instead of either extreme: challenge without care reads as aggression (Obnoxious Aggression); care without challenge is what lets problems fester (Ruinous Empathy). Demanding respect *is* challenging directly — the "care personally" half is what keeps it from being a jerk move.
+- **DESC the pushback, don't just react to it.** When someone crosses a line — talks over you, dismisses your input, takes credit for your work — script it: **D**escribe the behavior factually ("you cut me off twice in that meeting"), **E**xpress the impact ("I lost the thread and the room lost the point I was making"), **S**pecify the change you want ("let me finish the sentence next time"), name the **C**onsequence or next step if it continues ("otherwise I'll take it to you directly after, every time"). Facts and impact, not character judgments — that's the line between assertive and aggressive.
+- **The broken record.** When a no gets pushed on repeatedly, don't escalate your tone and don't cave — just restate the boundary, calmly, in roughly the same words, as many times as it takes. "I hear that, and I still can't take this on this week." Escalating tone signals the boundary is negotiable if they push harder; a flat, repeated no signals it isn't.
+- **Set the boundary before you're angry, not after.** Boundaries stated calmly and early ("I don't take calls after 7pm") read as professional standards. The same boundary stated for the first time mid-blowup reads as an overreaction, even when it's identical in substance. If you notice resentment building, that's the signal you needed to say the "no" three asks ago.
+- **Respect is demanded through consequences you actually enforce, not through volume.** A boundary you state but never enforce trains people to ignore it; a boundary you enforce quietly and consistently trains people to respect it without you ever raising your voice. Consistency (§5, Alex Hormozi) applies to boundaries too — one firm, calm enforcement beats ten angry warnings.
+- **Nobody wants to work for a jerk (Dimon, §5) — but nobody respects a pushover either.** The tell for "did I cross into jerk territory": did you attack the behavior or the person? Did you stay calm or need to win? Would you say it the same way if your boss were in the room? If yes to all three, it was assertive, not aggressive.
+- **Hogan watch-out:** under pressure, assertiveness derails in two directions — toward "excitable/bold" (steamrolling, needing to win the exchange) or toward "cautious/dutiful" (swallowing the boundary to avoid conflict, then leaking the resentment later as passive-aggression). Name your own default direction and pre-plan the counter-move, same pattern as §8.1's trigger-naming.
+
 ---
 
 ## 9. Topics to keep studying / impart to the team
@@ -282,7 +303,7 @@ Hogan's key insight: **leadership is reputation, not identity** — what matters
 
 **For the team:** extreme ownership ("no one is coming — it's on us"), growth mindset, the 1% rule (small daily improvements compound), and speaking up smart (the 4A Sequence above).
 
-**Books:** *Leaders Eat Last* (Sinek) · *Radical Candor* (Scott) · *Extreme Ownership* (Willink) · *Smart, Not Loud* (Chen) · *How to Win Friends and Influence People* (Carnegie) · *Influence Without Authority* (Cohen & Bradley).
+**Books:** *Leaders Eat Last* (Sinek) · *Radical Candor* (Scott) · *Extreme Ownership* (Willink) · *Smart, Not Loud* (Chen) · *How to Win Friends and Influence People* (Carnegie) · *Influence Without Authority* (Cohen & Bradley) · *The Power of a Positive No* (Ury).
 
 ---
 
