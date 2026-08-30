@@ -297,7 +297,40 @@ Assertiveness isn't a personality trait, it's a skill: state your position clear
 
 ---
 
-## 9. Topics to keep studying / impart to the team
+## 9. Leigh-Anne Harrison digest (Hard Hats & Heels) — four practical playbooks
+
+Leigh-Anne Harrison spent 20 years in commercial construction before founding **Hard Hats & Heels**, mentoring women execs, managers, and CEOs in male-dominated industries to "claim influence & impact without sacrificing softness, family, or joy." Her throughline across playbooks: **strength and grace aren't opposites — soft doesn't mean unclear.** Organized into four practical questions.
+
+### 9.1 What to do about a top performer who complains
+- **Separate the complaint from the feedback.** A complaint vents a problem with no proposed fix; upward feedback names the problem *and* asks for a specific change. Coach your top performer to add the second half — "here's what I'd do about it" — before it reaches you. It's the difference between a venting session and a promotable skill.
+- **Watch for "look how hard I work" complaining.** When a top performer's complaints are really comparisons — "I do more than X, and it's not fair" — it's often status-seeking, not a real blocker. Redirect: "What do you need from me to keep doing great work?" instead of litigating who works harder; that comparison framing tears down the team even when the complainer is right about the workload.
+- **Trust your intuition alongside the data (Harrison).** Numbers say the top performer is fine; your gut may be picking up early burnout signals the metrics haven't caught up to yet. Don't wait for the dashboard to confirm what you already sense.
+- **Invest in them long-term, even past your own team (Harrison).** "Grow talent even when it means someone eventually outgrows the role — that's how you build a legacy, not just a team." A top performer who complains because they've plateaued is telling you they're ready for more, not that they're a problem to manage.
+- **De-escalate with tone, not force (Harrison).** If the complaint arrives hot, soften your voice rather than matching their intensity — a calm nervous system changes the entire dynamic of the conversation before a single word of content is exchanged.
+
+### 9.2 How to manage up and manage your boss
+- **You're paid for outlook, not output, the higher you climb (Harrison, "Shift from Doing to Leading").** A manager answers "how do we get this done by Friday?"; a director answers "why are we doing this at all?" Show your boss you're thinking at the next level up, not just executing faster at your current one.
+- **If you solve the same problem twice, show them the system, not the fire (Harrison).** "If you have to solve the same problem twice, you don't have a problem — you have a missing system." Bringing your boss a system you built, not just a crisis you handled, is what reads as director-level to leadership.
+- **Translate your work into their scoreboard (Harrison).** Managers track tasks; executives track ROI, growth, and scale. Before you report status, translate: not "we shipped the feature" but "this closes the gap that was costing us renewal risk."
+- **Escalate with a recommendation attached, not just a problem.** How you raise an issue matters as much as the issue itself — arriving with "here's the problem and here's what I'd do" gets taken seriously; arriving with only the problem reads as dumping it on your boss to solve.
+- **Build relational capital before you need it (Harrison).** "Titles get compliance, relationships get commitment." Deposit trust with your boss — share information early, deliver on small asks — long before you need to spend it on a hard conversation or an ask for more.
+
+### 9.3 How to give hard feedback — a clear methodology
+- **Soft doesn't mean unclear (Harrison).** "You can be kind and direct at the same time — boundaries delivered with clarity and respect are often the most powerful leadership move." This is the value that should sit underneath whatever script you use.
+- **Use SBI: Situation → Behavior → Impact → open the floor.** Name the specific *situation* ("in yesterday's client call"), describe the observable *behavior* — not a character judgment ("you interrupted the client twice"), state the *impact* ("they stopped offering details after that"), then stop talking and ask "how do you see it?" Behavior + impact, not character, is what keeps it feedback instead of an attack. (Compare §8.3's coaching version and §8.6's DESC — SBI is the lighter-weight version for a single developmental moment; DESC is for a repeated boundary violation that needs a stated consequence.)
+- **Deliver it at a calm volume (Harrison's de-escalation principle, applied upward).** Hard feedback lands as coaching when your tone is level, and as an attack when it isn't — the words can be identical and the reception opposite.
+- **Make it a deposit, not a withdrawal.** Feedback that's specific and future-facing ("next time, try X") reads as investment in someone's growth; feedback that's vague and past-facing ("that wasn't great") reads as a verdict. Pair with Harrison's "invest in people long-term" — the same instinct that makes you grow a top performer should shape how you correct one.
+
+### 9.4 Top 5 traits of a good, inspiring leader to cultivate
+1. **Relational capital over positional power.** People work harder for leaders who make them feel seen than for leaders who simply outrank them. Titles get compliance; relationships get commitment.
+2. **Strategic outlook over raw output.** Sees the "why" behind the "how," and builds systems instead of repeatedly fighting the same fire.
+3. **Instinct alongside data.** Trusts what the numbers say *and* what their gut is picking up before the numbers catch up.
+4. **Clear and kind at once.** Soft doesn't mean unclear — the most respected leaders hold boundaries with both clarity and warmth, not one traded off for the other.
+5. **Authentic, and clear on the shared story.** Knows their own leadership story, the organization's past/present/future story, and can show each person exactly how they fit into it — authenticity plus a team that knows why it's here is what Harrison teaches under "authentic leadership, trust, and team alignment."
+
+---
+
+## 10. Topics to keep studying / impart to the team
 
 **For the leader:** situational leadership, radical candor (care personally, challenge directly), delegation as development, managing energy not just time.
 
@@ -354,3 +387,8 @@ Assertiveness isn't a personality trait, it's a skill: state your position clear
 - [Alex Hormozi on finite vs infinite games — X/Twitter](https://x.com/AlexHormozi/status/1644911266895650816)
 - [Finite Games vs Infinite Games — Alex Hormozi (YouTube)](https://www.youtube.com/shorts/EW0srqwWjqA)
 - [Game Theory: Infinite vs Finite Games — The Game podcast, Alex Hormozi](https://gymlaunch.libsyn.com/ep-59-game-theory-infinite-vs-finite-games-and-how-it-can-massively-transform-your-business-this-is-really-cool)
+- [Leigh-Anne Harrison — Jessica Zweig (profile bio, 5D Frequency persona — no leadership content on this page)](https://jessicazweig.com/leader/leigh-anne-harrison/)
+- [Leigh-Anne Harrison — Hard Hats & Heels (LinkedIn)](https://www.linkedin.com/in/hardhatsandheels/)
+- [Leigh-Anne Harrison (@hardhatsandheels_) — Instagram](https://www.instagram.com/hardhatsandheels_/)
+- [Shift from Doing to Leading — Leigh-Anne Harrison (LinkedIn post)](https://www.linkedin.com/posts/hardhatsandheels_careergrowth-directormindset-leadershipdevelopment-activity-7426997359621971968-dzaS)
+- [Leigh-Anne Harrison on women in construction, authentic leadership & self-respect (LinkedIn post)](https://www.linkedin.com/posts/hardhatsandheels_womeninconstruction-hardhatsandheels-leadershiprevolution-activity-7394797767644086273-Npbn)
