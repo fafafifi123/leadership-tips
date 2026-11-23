@@ -330,13 +330,53 @@ Leigh-Anne Harrison spent 20 years in commercial construction before founding **
 
 ---
 
-## 10. Topics to keep studying / impart to the team
+## 10. Adam Grant digest — *Give and Take*: givers, takers, and matchers
+
+Adam Grant (Wharton organizational psychologist) sorts people by how they handle reciprocity at work. Most people blend all three depending on context, but each of us has a default style — and the team's mix of styles shapes its culture more than almost anything a leader says.
+
+| | **Giver** | **Matcher** | **Taker** |
+|---|---|---|---|
+| Core question | "What can I contribute?" | "What's fair — what do I owe, what am I owed?" | "What can I get?" |
+| How they help | Helps with no strings attached, when the benefit to others exceeds the cost to them | Trades favors evenly, keeps score | Helps strategically, when the payoff to them exceeds the cost |
+| Where they end up | **Both the bottom *and* the top** of success metrics | Usually the middle | Rise fast, often fall fast — reputations catch up |
+| Effect on the team | Expands the pie: knowledge-sharing, mentoring, cohesion | Enforces fairness — and punishes takers | One taker drags down a team more than one giver lifts it |
+
+### 10.1 Tips for being a giver who succeeds (not a doormat)
+- **Be "otherish," not selfless.** The givers who burn out and land at the bottom give with no regard for their own interests. The givers at the top have high concern for others *and* for themselves — they give generously while still protecting their goals, time, and energy.
+- **Give in chunks, not sprinkles.** Batching your giving (e.g., one block of office hours or mentoring per week) is more energizing and more impactful than scattering small favors all day, which fragments your focus.
+- **Use the five-minute favor (Adam Rifkin).** Make giving cheap and high-leverage: an intro, a piece of feedback, sharing knowledge — things that take you ~5 minutes but are worth far more to the other person.
+- **Give in ways that energize you.** Giving that fits your strengths and that lets you see the impact sustains you; giving out of pure obligation drains you. Seeing the person you helped (or hearing how it landed) is the antidote to giver burnout.
+- **Watch the over-giving tell:** if you're consistently missing your own commitments to help others, you've slipped from otherish to selfless. Saying no is part of giving well (see §8.6's Positive No).
+- **Advocate like you would for someone else.** Givers tend to under-negotiate for themselves. Reframe the ask as advocating for the people who depend on you — your team, your family — and the hesitation fades.
+
+### 10.2 Tips for dealing with takers
+- **Don't judge by agreeableness.** Agreeableness (warm vs. gruff) is a surface style; giving vs. taking is a motive. The most misread people are **disagreeable givers** (tough exterior, genuinely have your back — the critics who make your work better) and **agreeable takers** ("fakers" — charming upward, exploitative downward).
+- **Look at how they treat people below them.** Takers tend to "kiss up, kick down." Ask peers and juniors, not just their managers. Other tells: heavy "I/me" in describing team wins, credit-claiming, and self-promotion that outruns their actual contribution.
+- **Shift to matcher mode with known takers — then leave the door open.** Use *generous tit-for-tat*: reciprocate fairly with someone who's shown themselves to be a taker, but occasionally (Grant cites roughly one in three times) extend good faith again so they have a path to change.
+- **Protect your team from them.** One taker in a team breeds paranoia and makes everyone else guard their contributions. Screening out takers usually does more for culture than recruiting another giver.
+- **Make taking visible and unrewarded.** Takers thrive where credit is ambiguous. Credit specifically and publicly (§1, §6), and reward helping behavior in reviews so taking stops paying off.
+
+### 10.3 Tips for working with (and leveraging) matchers
+- **Matchers are the majority — and your culture's enforcement mechanism.** Because they value fairness, matchers go out of their way to punish takers (gossip, withholding help). Make giving the visible norm and matchers will follow it; tolerate takers and matchers will start keeping score defensively.
+- **Help matchers move toward giving by making it safe.** Matchers hold back because they fear being exploited. Remove takers, reward givers publicly, and model giving yourself — and matchers will give more freely.
+- **Make it normal to *ask* for help.** Most help in organizations is triggered by requests, and most people (matchers especially) won't ask for fear of looking incompetent or "owing" someone. Normalize asking — e.g., a Reciprocity Ring (Wayne Baker) where everyone makes one request and offers to help with others' — so giving is initiated, not left to chance.
+- **Pay it forward, not back.** Encourage "pay it forward" helping (help someone else, not just the person who helped you) — it turns matcher scorekeeping into a network-wide norm of giving.
+
+### 10.4 Building a giver culture as a leader
+- **Hire to screen out takers first.** In interviews, ask about how they've helped others and look for whose careers they've improved and how they talk about credit ("I" vs. "we"). Reference-check sideways and downward, not just upward.
+- **Reward the helpers in performance reviews.** If only individual output gets rewarded, you're paying people to be takers. Count mentoring, knowledge-sharing, and unblocking others as real contributions.
+- **Model otherish giving — including the boundaries.** Show the team that you help generously *and* protect your own priorities, so giving doesn't become a path to burnout.
+- **Connect giving to impact.** Let people see the end-user or colleague their work helped. Grant's research shows contact with beneficiaries boosts both motivation and performance.
+
+---
+
+## 11. Topics to keep studying / impart to the team
 
 **For the leader:** situational leadership, radical candor (care personally, challenge directly), delegation as development, managing energy not just time.
 
 **For the team:** extreme ownership ("no one is coming — it's on us"), growth mindset, the 1% rule (small daily improvements compound), and speaking up smart (the 4A Sequence above).
 
-**Books:** *Leaders Eat Last* (Sinek) · *Radical Candor* (Scott) · *Extreme Ownership* (Willink) · *Smart, Not Loud* (Chen) · *How to Win Friends and Influence People* (Carnegie) · *Influence Without Authority* (Cohen & Bradley) · *The Power of a Positive No* (Ury).
+**Books:** *Leaders Eat Last* (Sinek) · *Radical Candor* (Scott) · *Extreme Ownership* (Willink) · *Smart, Not Loud* (Chen) · *How to Win Friends and Influence People* (Carnegie) · *Influence Without Authority* (Cohen & Bradley) · *The Power of a Positive No* (Ury) · *Give and Take* (Grant).
 
 ---
 
@@ -392,3 +432,6 @@ Leigh-Anne Harrison spent 20 years in commercial construction before founding **
 - [Leigh-Anne Harrison (@hardhatsandheels_) — Instagram](https://www.instagram.com/hardhatsandheels_/)
 - [Shift from Doing to Leading — Leigh-Anne Harrison (LinkedIn post)](https://www.linkedin.com/posts/hardhatsandheels_careergrowth-directormindset-leadershipdevelopment-activity-7426997359621971968-dzaS)
 - [Leigh-Anne Harrison on women in construction, authentic leadership & self-respect (LinkedIn post)](https://www.linkedin.com/posts/hardhatsandheels_womeninconstruction-hardhatsandheels-leadershiprevolution-activity-7394797767644086273-Npbn)
+- [Give and Take — Adam Grant (official book page)](https://adamgrant.net/book/give-and-take/)
+- [Are you a giver or a taker? — Adam Grant (TED)](https://www.ted.com/talks/adam_grant_are_you_a_giver_or_a_taker)
+- [In the Company of Givers and Takers — Adam Grant (Harvard Business Review)](https://hbr.org/2013/04/in-the-company-of-givers-and-takers)
